@@ -186,7 +186,7 @@ prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 protobuf==3.10.0
 protowhat==1.11.2
-psutil==5.4.8
+psutil==5.6.6
 psycopg2==2.8.4
 public==2018.11.20
 py==1.7.0
