@@ -52,7 +52,7 @@ conda-verify==3.1.1
 contextlib2==0.5.5
 contractions==0.0.21
 cookiecutter==1.7.0
-cryptography==2.4.2
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.2
