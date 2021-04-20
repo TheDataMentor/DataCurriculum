@@ -189,7 +189,7 @@ protowhat==1.11.2
 psutil==5.4.8
 psycopg2==2.8.4
 public==2018.11.20
-py==1.7.0
+py==1.10.0
 pyahocorasick==1.4.0
 pyasn1==0.4.7
 pycodestyle==2.4.0
