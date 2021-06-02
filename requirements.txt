@@ -284,7 +284,7 @@ tweepy==3.8.0
 tzlocal==1.5.1
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.24.1
+urllib3==1.26.5
 vaderSentiment==3.2.1
 validators==0.14.0
 virtualenv==20.0.9
