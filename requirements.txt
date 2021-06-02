@@ -128,7 +128,7 @@ linkedin-scraper==2.2.0
 llvmlite==0.26.0
 locket==0.2.0
 lxml==4.2.5
-markdown2==2.3.8
+markdown2==2.4.0
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 mccabe==0.6.1
