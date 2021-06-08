@@ -173,7 +173,7 @@ pdfminer==20191020
 pdfminer.six==20181108
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.2.0
 pkginfo==1.4.2
 plac==0.9.6
 plotly==4.2.1
