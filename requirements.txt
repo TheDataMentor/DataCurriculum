@@ -206,7 +206,7 @@ pylint==2.2.2
 pyodbc==4.0.25
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyreadline==2.1
 PySocks==1.6.8
 pytest==4.0.2
